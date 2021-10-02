@@ -1,5 +1,5 @@
 # MDA-CNN
-MiRNA (MicroRNA) is a type of single-stranded small RNA of about 18-25 nts that 
+   MiRNA (MicroRNA) is a type of single-stranded small RNA of about 18-25 nts that 
 is ubiquitous in eukaryotic cells. MiRNA plays a very important role in regulating cell 
 proliferation, differentiation, and apoptosis. In recent years, with the deepening of 
 people's research, more and more evidence shows that there is a close relationship 
@@ -10,7 +10,7 @@ computer methods to calculate the relationship between miRNA and disease has bec
 the focus of current research. This method can reduce the workload of biological 
 experimenters. It is also possible to use miRNA for disease judgment as soon as possible, 
 and to develop miRNA targeted drugs for clinical treatment.  
-In this thesis, we obtain the disease similarity network, gene-gene association 
+   In this thesis, we obtain the disease similarity network, gene-gene association 
 network, miRNA similarity network, miRNA-gene network and disease-gene network 
 from the data in multiple databases, and obtain the three-layer miRNA-gene-disease 
 network through the above five networks . Then extract the miRNA-gene and disease-gene characteristics from the three-layer network of miRNA-gene-disease. The general 
