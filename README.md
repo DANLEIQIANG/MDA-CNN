@@ -9,11 +9,11 @@ with the development of computer technology and bioinformatics, the simulation o
 computer methods to calculate the relationship between miRNA and disease has become 
 the focus of current research. This method can reduce the workload of biological 
 experimenters. It is also possible to use miRNA for disease judgment as soon as possible, 
-and to develop miRNA targeted drugs for clinical treatment.
+and to develop miRNA targeted drugs for clinical treatment.  
 In this thesis, we obtain the disease similarity network, gene-gene association 
 network, miRNA similarity network, miRNA-gene network and disease-gene network 
 from the data in multiple databases, and obtain the three-layer miRNA-gene-disease 
-network through the above five networks . Then extract the miRNA-gene and diseasegene characteristics from the three-layer network of miRNA-gene-disease. The general 
+network through the above five networks . Then extract the miRNA-gene and disease-gene characteristics from the three-layer network of miRNA-gene-disease. The general 
 idea of this step is based on an innovative regression model to find the similarity score 
 between different miRNAs and between different diseases. Similarity score, and then find 
 the similarity score between miRNA (or disease) and different genes. Using a stack 
