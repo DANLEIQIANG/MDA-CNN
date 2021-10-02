@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cef6545-9980-41cb-9b1d-1ee26a1981e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="ee34f4ac-6115-4502-b3b3-b544d71ebbe4" />
+  <component name="ProjectId" id="1V8uG08A4o48CwfW1ZWjzk4eIqt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/CNN" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/CNN" />
+      <recent name="$PROJECT_DIR$/data/AE" />
+      <recent name="$PROJECT_DIR$/source code/CNN" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.disease-gene-reg1">
+    <configuration name="AE_train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MDA-CNN-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source code/autoencoder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source code/autoencoder/AE_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CNN_train1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MDA-CNN-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source code/CNN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source code/CNN/CNN_train1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ae" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MDA-CNN-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source code/autoencoder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source code/autoencoder/ae.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="disease-gene-reg1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MDA-CNN-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source code/regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source code/regression/disease-gene-reg1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gene-mir-reg1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MDA-CNN-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source code/regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source code/regression/gene-mir-reg1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.disease-gene-reg1" />
+        <item itemvalue="Python.gene-mir-reg1" />
+        <item itemvalue="Python.CNN_train1" />
+        <item itemvalue="Python.ae" />
+        <item itemvalue="Python.AE_train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cef6545-9980-41cb-9b1d-1ee26a1981e5" name="Default Changelist" comment="" />
+      <created>1576646943957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576646943957</updated>
+      <workItem from="1576646945818" duration="9649000" />
+      <workItem from="1576660397827" duration="2649000" />
+      <workItem from="1576743804659" duration="27220000" />
+      <workItem from="1576813954151" duration="7134000" />
+      <workItem from="1576896435848" duration="6697000" />
+      <workItem from="1577198254868" duration="2393000" />
+      <workItem from="1577206952562" duration="465000" />
+      <workItem from="1577365078873" duration="86000" />
+      <workItem from="1579271950949" duration="25000" />
+      <workItem from="1581686914329" duration="75000" />
+      <workItem from="1581687069752" duration="489000" />
+      <workItem from="1581688210070" duration="14000" />
+      <workItem from="1581690898567" duration="1962000" />
+      <workItem from="1582389301612" duration="4853000" />
+      <workItem from="1582442874242" duration="7989000" />
+      <workItem from="1582691652988" duration="485000" />
+      <workItem from="1582822555350" duration="181000" />
+      <workItem from="1582868926051" duration="750000" />
+      <workItem from="1582878429332" duration="2271000" />
+      <workItem from="1583290673870" duration="9254000" />
+      <workItem from="1583763708012" duration="2493000" />
+      <workItem from="1584610362786" duration="4168000" />
+      <workItem from="1584711004339" duration="1492000" />
+      <workItem from="1584768304310" duration="1901000" />
+      <workItem from="1585448729113" duration="242000" />
+      <workItem from="1585452643073" duration="21001000" />
+      <workItem from="1587382776345" duration="400000" />
+      <workItem from="1587708810470" duration="5239000" />
+      <workItem from="1589253585848" duration="48000" />
+      <workItem from="1590058577988" duration="6766000" />
+      <workItem from="1590316940353" duration="876000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="592" y="353" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585474745345">
+      <screen x="0" y="23" width="1792" height="1041" />
+    </state>
+    <state x="592" y="353" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1041@0.23.1792.1041" timestamp="1585474745345" />
+    <state x="634" y="315" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585482275804">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="634" y="315" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1585482275804" />
+    <state x="634" y="316" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1041@0.23.1792.1041" timestamp="1585474616696" />
+    <state width="875" height="300" key="GridCell.Tab.0.bottom" timestamp="1590316781540">
+      <screen x="0" y="23" width="1792" height="1043" />
+    </state>
+    <state width="875" height="300" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1590067560556" />
+    <state width="1750" height="267" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1583304128886" />
+    <state width="1750" height="267" key="GridCell.Tab.0.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1582468648349" />
+    <state width="1750" height="267" key="GridCell.Tab.0.bottom/0.23.1792.1036@0.23.1792.1036" timestamp="1585481862487" />
+    <state width="1750" height="267" key="GridCell.Tab.0.bottom/0.23.1792.1037@0.23.1792.1037" timestamp="1585479755220" />
+    <state width="1750" height="267" key="GridCell.Tab.0.bottom/0.23.1792.1041@0.23.1792.1041" timestamp="1585479086578" />
+    <state width="875" height="300" key="GridCell.Tab.0.bottom/0.23.1792.1043@0.23.1792.1043" timestamp="1590316781540" />
+    <state width="875" height="300" key="GridCell.Tab.0.bottom/0.23.1792.1045@0.23.1792.1045" timestamp="1587806440496" />
+    <state width="875" height="300" key="GridCell.Tab.0.center" timestamp="1590316781539">
+      <screen x="0" y="23" width="1792" height="1043" />
+    </state>
+    <state width="1750" height="267" key="GridCell.Tab.0.center/0.0.1792.1054@0.0.1792.1054" timestamp="1584721579050" />
+    <state width="875" height="300" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1590067560555" />
+    <state width="1750" height="267" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1583304128885" />
+    <state width="1750" height="267" key="GridCell.Tab.0.center/0.23.1792.1022@0.23.1792.1022" timestamp="1582468648348" />
+    <state width="1750" height="267" key="GridCell.Tab.0.center/0.23.1792.1036@0.23.1792.1036" timestamp="1585481862486" />
+    <state width="1750" height="267" key="GridCell.Tab.0.center/0.23.1792.1037@0.23.1792.1037" timestamp="1585479755219" />
+    <state width="1750" height="267" key="GridCell.Tab.0.center/0.23.1792.1041@0.23.1792.1041" timestamp="1585479086577" />
+    <state width="875" height="300" key="GridCell.Tab.0.center/0.23.1792.1043@0.23.1792.1043" timestamp="1590316781539" />
+    <state width="875" height="300" key="GridCell.Tab.0.center/0.23.1792.1045@0.23.1792.1045" timestamp="1587806440495" />
+    <state width="875" height="300" key="GridCell.Tab.0.left" timestamp="1590316781539">
+      <screen x="0" y="23" width="1792" height="1043" />
+    </state>
+    <state width="875" height="300" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1590067560554" />
+    <state width="1750" height="267" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1583304128885" />
+    <state width="1750" height="267" key="GridCell.Tab.0.left/0.23.1792.1022@0.23.1792.1022" timestamp="1582468648348" />
+    <state width="1750" height="267" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1584721579014" />
+    <state width="1750" height="267" key="GridCell.Tab.0.left/0.23.1792.1036@0.23.1792.1036" timestamp="1585481862486" />
+    <state width="1750" height="267" key="GridCell.Tab.0.left/0.23.1792.1037@0.23.1792.1037" timestamp="1585479755218" />
+    <state width="1750" height="267" key="GridCell.Tab.0.left/0.23.1792.1041@0.23.1792.1041" timestamp="1585479086576" />
+    <state width="875" height="300" key="GridCell.Tab.0.left/0.23.1792.1043@0.23.1792.1043" timestamp="1590316781539" />
+    <state width="875" height="300" key="GridCell.Tab.0.left/0.23.1792.1045@0.23.1792.1045" timestamp="1587806440495" />
+    <state width="875" height="300" key="GridCell.Tab.0.right" timestamp="1590316781539">
+      <screen x="0" y="23" width="1792" height="1043" />
+    </state>
+    <state width="875" height="300" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1590067560556" />
+    <state width="1750" height="267" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1583304128886" />
+    <state width="1750" height="267" key="GridCell.Tab.0.right/0.23.1792.1022@0.23.1792.1022" timestamp="1582468648349" />
+    <state width="1750" height="267" key="GridCell.Tab.0.right/0.23.1792.1036@0.23.1792.1036" timestamp="1585481862486" />
+    <state width="1750" height="267" key="GridCell.Tab.0.right/0.23.1792.1037@0.23.1792.1037" timestamp="1585479755219" />
+    <state width="1750" height="267" key="GridCell.Tab.0.right/0.23.1792.1041@0.23.1792.1041" timestamp="1585479086578" />
+    <state width="875" height="300" key="GridCell.Tab.0.right/0.23.1792.1043@0.23.1792.1043" timestamp="1590316781539" />
+    <state width="875" height="300" key="GridCell.Tab.0.right/0.23.1792.1045@0.23.1792.1045" timestamp="1587806440496" />
+    <state x="550" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1590058580893">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="550" y="387" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1590058580893" />
+    <state x="550" y="383" key="com.intellij.ide.util.TipDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1582389302766" />
+    <state x="561" y="246" width="670" height="741" key="search.everywhere.popup" timestamp="1590065236553">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="246" width="670" height="741" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1590065236553" />
+    <state x="561" y="246" width="670" height="673" key="search.everywhere.popup/0.23.1792.1017@0.23.1792.1017" timestamp="1582390215131" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/source code/CNN/CNN_train.py</url>
+          <line>172</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/source code/CNN/data_helpers.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MDA_CNN_master$cnn.coverage" NAME="cnn Coverage Results" MODIFIED="1576902817845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source code/CNN" />
+    <SUITE FILE_PATH="coverage/MDA_CNN_master$disease_gene_softmax.coverage" NAME="disease-gene-softmax Coverage Results" MODIFIED="1576747936126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source code/regression" />
+    <SUITE FILE_PATH="coverage/MDA_CNN_master$disease_gene_reg2.coverage" NAME="disease-gene-reg2 Coverage Results" MODIFIED="1576747131473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source code/regression" />
+    <SUITE FILE_PATH="coverage/MDA_CNN_master$plot.coverage" NAME="plot Coverage Results" MODIFIED="1582394629285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source code/regression" />
+    <SUITE FILE_PATH="coverage/MDA_CNN_master$disease_gene_reg3.coverage" NAME="disease-gene-reg3 Coverage Results" MODIFIED="1576747812080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source code/regression" />
+    <SUITE FILE_PATH="coverage/MDA_CNN_master$gene_mir_reg3.coverage" NAME="gene-mir-reg3 Coverage Results" MODIFIED="1576749012697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source code/regression" />
+    <SUITE FILE_PATH="coverage/MDA_CNN_master$ae.coverage" NAME="ae Coverage Results" MODIFIED="1585482483556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source code/autoencoder" />
+    <SUITE FILE_PATH="coverage/MDA_CNN_master$disease_gene_reg1.coverage" NAME="disease-gene-reg1 Coverage Results" MODIFIED="1590067560548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source code/regression" />
+    <SUITE FILE_PATH="coverage/MDA_CNN_master$gene_mir_reg2.coverage" NAME="gene-mir-reg2 Coverage Results" MODIFIED="1576748371246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source code/regression" />
+    <SUITE FILE_PATH="coverage/MDA_CNN_master$data_helpers.coverage" NAME="data_helpers Coverage Results" MODIFIED="1584712618080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source code/autoencoder" />
+    <SUITE FILE_PATH="coverage/MDA_CNN_master$AE_train.coverage" NAME="AE_train Coverage Results" MODIFIED="1585480284554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source code/autoencoder" />
+    <SUITE FILE_PATH="coverage/MDA_CNN_master$CNN_train1.coverage" NAME="CNN_train1 Coverage Results" MODIFIED="1587713777393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source code/CNN" />
+    <SUITE FILE_PATH="coverage/MDA_CNN_master$gene_mir_softmax.coverage" NAME="gene-mir-softmax Coverage Results" MODIFIED="1576749915665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source code/regression" />
+    <SUITE FILE_PATH="coverage/MDA_CNN_master$gene_mir_reg1.coverage" NAME="gene-mir-reg1 Coverage Results" MODIFIED="1590065114588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source code/regression" />
+    <SUITE FILE_PATH="coverage/MDA_CNN_master$CNN_train.coverage" NAME="CNN_train Coverage Results" MODIFIED="1583297605949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source code/CNN" />
+  </component>
+</project>
